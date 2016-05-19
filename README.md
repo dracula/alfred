@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/alfred).
+All instructions can be found at [draculatheme.com/alfred](https://draculatheme.com/alfred).
 
 ## License
 
