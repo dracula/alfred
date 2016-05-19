@@ -2,7 +2,7 @@
 
 > A dark theme for [Alfred](http://alfredapp.com).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/alfred.png)
+![Screenshot](https://draculatheme.com/assets/img/screenshots/alfred3.png)
 
 ## Install
 
