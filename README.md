@@ -1,6 +1,6 @@
-# Dracula for [X](http://alfredapp.com)
+# Dracula for [Alfred](http://alfredapp.com)
 
-> A dark theme for [X](http://alfredapp.com).
+> A dark theme for [Alfred](http://alfredapp.com).
 
 ![Screenshot](https://draculatheme.com/assets/img/screenshots/alfred.png)
 
