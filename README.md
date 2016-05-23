@@ -1,12 +1,16 @@
-# Dracula for [Alfred](http://alfredapp.com)
+# Dracula for [Alfred 2](http://alfredapp.com)
 
-> A dark theme for [Alfred](http://alfredapp.com).
+> A dark theme for [Alfred 2](http://alfredapp.com).
 
 ![Screenshot](https://draculatheme.com/assets/img/screenshots/alfred.png)
 
 ## Install
 
 All instructions can be found at [draculatheme.com/alfred](https://draculatheme.com/alfred).
+
+## Related
+
+* [Alfred 3](https://github.com/dracula/alfred/tree/master)
 
 ## Team
 
