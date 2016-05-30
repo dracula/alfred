@@ -2,11 +2,21 @@
 
 > A dark theme for [Alfred 3](http://alfredapp.com).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/alfred3.png)
+## Preview
 
-## Install
+![Screenshot](https://raw.githubusercontent.com/dracula/alfred/master/screenshot.png)
 
-All instructions can be found at [draculatheme.com/alfred](https://draculatheme.com/alfred).
+## Instructions
+
+1. Download:
+
+	```
+$ git clone https://github.com/dracula/alfred
+	```
+
+2. Activate:
+
+	* Double-click on `Dracula.alfredappearance`
 
 ## Related
 
