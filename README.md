@@ -4,19 +4,11 @@
 
 ## Preview
 
-![Screenshot](https://raw.githubusercontent.com/dracula/alfred/master/screenshot.png)
+![Screenshot](https://draculatheme.com/assets/img/screenshots/alfred3.png)
 
 ## Instructions
 
-1. Download:
-
-	```
-$ git clone https://github.com/dracula/alfred
-	```
-
-2. Activate:
-
-	* Double-click on `Dracula.alfredappearance`
+All instructions can be found at [draculatheme.com/alfred](https://draculatheme.com/alfred).
 
 ## Related
 
