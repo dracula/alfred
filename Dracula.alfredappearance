@@ -31,14 +31,14 @@
       "spacing" : 4,
       "text" : {
         "size" : 34,
-        "colorSelected" : "#000000FF",
+        "colorSelected" : "#F8F8F2FF",
         "font" : "System Thin",
         "color" : "#F8F8F2FF"
       },
-      "backgroundSelected" : "#A3CCFEFF"
+      "backgroundSelected" : "#444759FF"
     },
     "window" : {
-      "color" : "#282A36BF",
+      "color" : "#282A36FF",
       "paddingHorizontal" : 4,
       "width" : 559,
       "borderPadding" : 0,
