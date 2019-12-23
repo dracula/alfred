@@ -4,7 +4,7 @@
 
 ## Preview
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/alfred3.png)
+![Screenshot](./screenshot.png)
 
 ## Instructions
 
