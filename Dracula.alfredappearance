@@ -31,19 +31,19 @@
       "spacing" : 4,
       "text" : {
         "size" : 34,
-        "colorSelected" : "#000000FF",
+        "colorSelected" : "#F8F8F2FF",
         "font" : "System Thin",
         "color" : "#F8F8F2FF"
       },
-      "backgroundSelected" : "#A3CCFEFF"
+      "backgroundSelected" : "#444759FF"
     },
     "window" : {
-      "color" : "#282A36BF",
+      "color" : "#282A36FF",
       "paddingHorizontal" : 4,
       "width" : 559,
       "borderPadding" : 0,
       "borderColor" : "#0000007F",
-      "blur" : 40,
+      "blur" : 0,
       "roundness" : 3,
       "paddingVertical" : 4
     },
