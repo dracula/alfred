@@ -4,11 +4,11 @@
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    $ git clone https://github.com/dracula/alfred
+    git clone https://github.com/dracula/alfred
 
 The default (master) branch is for Alfred 3. If you need the theme for Alfred 2, you need to checkout the v2 branch.
 
-    $ git checkout v2
+    git checkout v2
 
 #### Install manually
 
