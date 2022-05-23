@@ -10,6 +10,15 @@ The default (master) branch is for Alfred 3. If you need the theme for Alfred 2,
 
     git checkout v2
 
+#### Install using [Homebrew](https://brew.sh)
+
+Easily install from [dracula/homebrew-install](https://github.com/dracula/homebrew-install/blob/master/Casks/dracula-alfred.rb):
+
+``` sh
+brew tap dracula/install
+brew install --cask dracula-alfred
+```
+
 #### Install manually
 
 v3: Download using the [GitHub .zip download](https://github.com/dracula/alfred/archive/master.zip) option and unzip them.
