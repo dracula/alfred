@@ -22,29 +22,32 @@
         "color" : "#F8F8F27F"
       },
       "iconPaddingHorizontal" : 4,
+      "roundness" : 5,
       "paddingVertical" : 3,
       "iconSize" : 40
     },
     "search" : {
-      "paddingVertical" : 5,
-      "background" : "#282A3600",
+      "backgroundSelected" : "#444759FF",
+      "paddingHorizontal" : 8,
       "spacing" : 4,
       "text" : {
         "size" : 34,
-        "colorSelected" : "#000000FF",
+        "colorSelected" : "#F8F8F2FF",
         "font" : "System Thin",
         "color" : "#F8F8F2FF"
       },
-      "backgroundSelected" : "#A3CCFEFF"
+      "background" : "#282A3600",
+      "roundness" : 5,
+      "paddingVertical" : 5
     },
     "window" : {
-      "color" : "#282A36BF",
+      "color" : "#282A36FB",
       "paddingHorizontal" : 4,
       "width" : 559,
       "borderPadding" : 0,
       "borderColor" : "#0000007F",
-      "blur" : 40,
-      "roundness" : 3,
+      "blur" : 0,
+      "roundness" : 9,
       "paddingVertical" : 4
     },
     "credit" : "Zeno Rocha",
